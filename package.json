@@ -1,0 +1,23 @@
+{
+  "name": "spinnaker-repo-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adong/spinnaker-repo-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adong/spinnaker-repo-sample/issues"
+  },
+  "homepage": "https://github.com/adong/spinnaker-repo-sample#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
